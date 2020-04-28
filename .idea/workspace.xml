@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug-remote" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8d9ab54-eb1f-4a36-9354-230e2e151b51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1aTJRT9X6s6EkYGJJ9J86QNQmkm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/unpv13e" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586755971785">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1586755971785" />
+    <state x="100" y="123" width="1080" height="523" key="DirDiffDialog" timestamp="1586755995568">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="100" y="123" width="1080" height="523" key="DirDiffDialog/0.23.1280.723@0.23.1280.723" timestamp="1586755995568" />
+    <state x="149" y="23" width="982" height="721" key="SettingsEditor" timestamp="1586777088434">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="149" y="23" width="982" height="721" key="SettingsEditor/0.23.1280.721@0.23.1280.721" timestamp="1586777088434" />
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1586756797483" />
+  </component>
+</project>
